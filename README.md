@@ -15,7 +15,7 @@ The problem we are going to solve in this project is the house price prediction 
 
 # Deployemnt :
 The web app has been build using basic HTML, CSS, Javascript, Flask and bootstrap.
-
+![image](https://user-images.githubusercontent.com/97694477/232385417-c0f17ab5-d23d-4417-93d1-3676ba96144b.png)
 
 # Future Scope :
 - Use multiple Algorithms
